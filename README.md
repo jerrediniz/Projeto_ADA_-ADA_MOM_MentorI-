@@ -110,3 +110,10 @@ A infraestrutura do Projeto ADA revela uma simbiose onde a tecnologia serve à v
 
 A "chave de ouro" para furar o teto financeiro é a gestão inteligente da carga biológica. Ao monitorar o Nervo Vago através da malha ADA, asseguramos que o caminho para o sucesso seja pavimentado com saúde e dignidade. O futuro reside na simbiose entre a inteligência artificial conversacionalmente alinhada  e a psicometria profunda, garantindo que o conhecimento seja a ferramenta definitiva de libertação.   
 
+
+
+
+⚠️ Nota de Evolução Científica (Disclaimer)
+Este repositório documenta um projeto de pesquisa e desenvolvimento em fase ativa de estruturação e validação de hipóteses. Como toda ciência de fronteira, os conceitos, arquiteturas, nomenclaturas e textos aqui apresentados são considerados "Work in Progress" (Trabalho em Andamento). Portanto, este material é um organismo vivo: poderá sofrer alterações, refinamentos metodológicos, correções e atualizações contínuas sem aviso prévio, à medida que a pesquisa avança e novos dados são integrados ao ecossistema.
+
+
